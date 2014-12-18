@@ -37,7 +37,7 @@ void scaleUp() {
 
 //function Twinkle 1
 void twinkle1() {
-  int lineANotes [] = {c4, c4, g4, g4, an4, g4, f4, f4, e4, e4, d4, d4, c4};
+  int lineANotes [] = {c4, c4, g4, g4, an4, an4, g4, f4, f4, e4, e4, d4, d4, c4};
   int lineARhythm [] = {q, q, q, q, q, q, h, q, q, q, q, q, h};
   
   for (int n = 0; n < 14; n++) {
